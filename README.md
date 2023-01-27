@@ -1,2 +1,2 @@
 # pivToolbox
-Collection of Python functions to process .dat file exported form DaVis particle image velocimetry software
+Collection of python tools to process PIV data
